@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Core Java</name>
+   <tag></tag>
+   <elementGuidId>1a531b35-ad9f-4b07-b560-fefe5de7059e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='item-vfb-20']/div/span[4]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>2465a1bb-2428-45a9-813b-3cc94021353a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>vfb-20-3</value>
+      <webElementGuid>df6fcfa5-c050-4240-9d5a-34e9edf7a683</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vfb-choice</value>
+      <webElementGuid>352125b8-a4cf-4fb6-8c2a-b5abbe5486bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Core Java</value>
+      <webElementGuid>4c1654ba-f843-4c3e-bd05-59531f9caf4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;item-vfb-20&quot;)/div[1]/span[@class=&quot;vfb-span&quot;]/label[@class=&quot;vfb-choice&quot;]</value>
+      <webElementGuid>4b0644c5-e97c-4a7a-9de5-38261d4dfcc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='item-vfb-20']/div/span[4]/label</value>
+      <webElementGuid>8f8072d3-d5c1-42b6-86f1-5f587d5972e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestNG'])[5]/following::label[1]</value>
+      <webElementGuid>dc26a62c-aee1-4aa8-bbde-04db259062fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UFT'])[1]/following::label[2]</value>
+      <webElementGuid>b65cea48-4b08-4ec2-be9f-0cdff1d0e2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Functional Testing'])[1]/preceding::label[1]</value>
+      <webElementGuid>a0ce6dfc-04c6-48c2-bedf-a75acabff22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Others'])[2]/preceding::label[2]</value>
+      <webElementGuid>0ffc00a1-e1f5-4c96-b6d6-47963b277323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Core Java']/parent::*</value>
+      <webElementGuid>47f71d4b-6baf-4bf0-8573-973a99814d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/span[4]/label</value>
+      <webElementGuid>86063e9a-f579-43a5-8dd0-8d2492dbfe1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Core Java' or . = 'Core Java')]</value>
+      <webElementGuid>f8b52a6d-6acd-41ff-871c-7e778864244c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
